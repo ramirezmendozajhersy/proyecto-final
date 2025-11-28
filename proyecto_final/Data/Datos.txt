@@ -1,0 +1,181 @@
+ID_Orden,Numero_Orden,Ano_Orden,Fecha_Orden,Importe_Orden,Costo_Envio,Nombre_Proveedor,Nombre_Repartidor,Producto,Cantidad_Producto,Categoria_Producto,Estado_Orden,Metodo_Pago,Ciudad_Entrega,Tiempo_Entrega
+1,2025-A-001,2025,05/01/2025,1250.75,60.00,Alicorp,Carlos Ramírez,Aceite Primor,50,Alimentos,Entregado,Transferencia,Lima,3
+2,2025-A-002,2025,08/01/2025,3400.00,120.00,Gloria,Juan Pérez,Leche evaporada Gloria,200,Alimentos,Entregado,Tarjeta,Arequipa,5
+3,2025-A-003,2025,12/01/2025,980.50,80.00,Backus,Rosa Gutiérrez,Cerveza Cristal,120,Bebidas,Pendiente,Efectivo,Trujillo,7
+4,2025-A-004,2025,15/01/2025,250.99,40.00,San Fernando,Pedro Salazar,Pollo entero,90,Carnes,En tránsito,Transferencia,Chiclayo,4
+5,2025-A-005,2025,20/01/2025,4500.20,150.00,InkaFarma,María Torres,Medicamentos genéricos,300,Salud,Entregado,Tarjeta,Lima,6
+6,2025-A-006,2025,25/01/2025,789.30,60.00,Tottus,Luis Fernández,Arroz Tottus,100,Alimentos,Entregado,Efectivo,Piura,5
+7,2025-A-007,2025,01/02/2025,1500.00,70.00,Laive,José Vargas,Queso fresco Laive,75,Lácteos,Entregado,Transferencia,Lima,3
+8,2025-A-008,2025,05/02/2025,2100.45,90.00,Molitalia,Claudia Rojas,Fideos Molitalia,150,Alimentos,Entregado,Tarjeta,Arequipa,4
+9,2025-A-009,2025,10/02/2025,550.80,50.00,Alicorp,Diego Castillo,Galletas Casino,60,Alimentos,Entregado,Efectivo,Trujillo,3
+10,2025-A-010,2025,12/02/2025,675.10,55.00,Gloria,Andrea López,Yogurt Gloria,80,Lácteos,Pendiente,Tarjeta,Lima,6
+11,2025-A-011,2025,18/02/2025,3800.60,130.00,Backus,Manuel Díaz,Cerveza Pilsen Callao,200,Bebidas,Entregado,Transferencia,Arequipa,5
+12,2025-A-012,2025,20/02/2025,190.99,30.00,San Fernando,Sofía Herrera,Jamón San Fernando,40,Carnes,En tránsito,Efectivo,Piura,4
+13,2025-A-013,2025,25/02/2025,2300.70,100.00,InkaFarma,Raúl Medina,Vitaminas,150,Salud,Entregado,Tarjeta,Lima,3
+14,2025-A-014,2025,01/03/2025,410.25,45.00,Tottus,Patricia Flores,Azúcar Tottus,90,Alimentos,Entregado,Transferencia,Trujillo,5
+15,2025-A-015,2025,05/03/2025,5600.00,200.00,Laive,Martín Chávez,Queso mantecoso,300,Lácteos,Entregado,Tarjeta,Lima,7
+16,2025-A-016,2025,10/03/2025,1100.15,70.00,Molitalia,Daniel Paredes,Galletas Field,100,Alimentos,Entregado,Efectivo,Arequipa,4
+17,2025-A-017,2025,12/03/2025,890.40,60.00,Alicorp,Carolina Núñez,Detergente Bolívar,75,Limpieza,Pendiente,Transferencia,Lima,3
+18,2025-A-018,2025,15/03/2025,700.50,50.00,Gloria,Oscar Aguilar,Leche deslactosada,60,Lácteos,Entregado,Tarjeta,Piura,5
+19,2025-A-019,2025,18/03/2025,950.99,55.00,Backus,Esteban Ramos,Cerveza Cusqueña,80,Bebidas,Entregado,Efectivo,Trujillo,6
+20,2025-A-020,2025,20/03/2025,1550.00,75.00,San Fernando,Verónica Silva,Chorizo parrillero,100,Carnes,Entregado,Transferencia,Lima,4
+21,2025-A-021,2025,25/03/2025,2800.30,110.00,InkaFarma,Renato Guzmán,Suplementos deportivos,180,Salud,Entregado,Tarjeta,Arequipa,5
+22,2025-A-022,2025,28/03/2025,450.70,35.00,Tottus,Marisol Cárdenas,Harina Tottus,60,Alimentos,Entregado,Efectivo,Piura,3
+23,2025-A-023,2025,02/04/2025,300.50,25.00,Laive,Julio Espinoza,Yogurt bebible Laive,40,Lácteos,Pendiente,Transferencia,Lima,4
+24,2025-A-024,2025,05/04/2025,1800.25,95.00,Molitalia,Paola Sánchez,Fideos Spaghetti,120,Alimentos,Entregado,Tarjeta,Trujillo,6
+25,2025-A-025,2025,10/04/2025,620.00,40.00,Alicorp,Kevin Morales,Arroz Costeño,100,Alimentos,Entregado,Efectivo,Lima,3
+26,2025-A-026,2025,15/04/2025,2200.90,100.00,Gloria,Milagros León,Queso mantecoso Gloria,150,Lácteos,Entregado,Tarjeta,Arequipa,5
+27,2025-A-027,2025,18/04/2025,145.60,20.00,Backus,Arturo Campos,Cerveza Arequipeña,30,Bebidas,En tránsito,Efectivo,Piura,4
+28,2025-A-028,2025,22/04/2025,850.10,55.00,San Fernando,Lucía Vega,Salchicha San Fernando,70,Carnes,Entregado,Transferencia,Lima,3
+29,2025-A-029,2025,25/04/2025,1600.40,75.00,InkaFarma,Alberto Huamán,Jarabe para tos,90,Salud,Entregado,Tarjeta,Trujillo,5
+30,2025-A-030,2025,30/04/2025,510.85,35.00,Tottus,Elena Quispe,Azúcar rubia,60,Alimentos,Pendiente,Efectivo,Piura,4
+31,2024-A-001,2024,06/01/2024,1320.50,65.00,Alicorp,Carlos Ramírez,Aceite Primor,55,Alimentos,Entregado,Transferencia,Lima,3
+32,2024-A-002,2024,10/01/2024,2890.75,110.00,Gloria,Juan Pérez,Leche evaporada Gloria,180,Alimentos,Entregado,Tarjeta,Arequipa,5
+33,2024-A-003,2024,15/01/2024,975.20,70.00,Backus,Rosa Gutiérrez,Cerveza Cristal,100,Bebidas,Pendiente,Efectivo,Trujillo,6
+34,2024-A-004,2024,18/01/2024,450.99,35.00,San Fernando,Pedro Salazar,Pollo entero,60,Carnes,En tránsito,Transferencia,Chiclayo,4
+35,2024-A-005,2024,22/01/2024,5100.00,180.00,InkaFarma,María Torres,Medicamentos genéricos,250,Salud,Entregado,Tarjeta,Lima,7
+36,2024-A-006,2024,25/01/2024,820.30,55.00,Tottus,Luis Fernández,Arroz Tottus,90,Alimentos,Entregado,Efectivo,Piura,5
+37,2024-A-007,2024,01/02/2024,1450.00,75.00,Laive,José Vargas,Queso fresco Laive,70,Lácteos,Entregado,Transferencia,Lima,3
+38,2024-A-008,2024,05/02/2024,2000.45,95.00,Molitalia,Claudia Rojas,Fideos Molitalia,140,Alimentos,Entregado,Tarjeta,Arequipa,4
+39,2024-A-009,2024,10/02/2024,640.80,45.00,Alicorp,Diego Castillo,Galletas Casino,50,Alimentos,Entregado,Efectivo,Trujillo,3
+40,2024-A-010,2024,12/02/2024,710.10,50.00,Gloria,Andrea López,Yogurt Gloria,70,Lácteos,Pendiente,Tarjeta,Lima,6
+41,2024-A-011,2024,18/02/2024,3700.60,125.00,Backus,Manuel Díaz,Cerveza Pilsen Callao,180,Bebidas,Entregado,Transferencia,Arequipa,5
+42,2024-A-012,2024,20/02/2024,210.99,25.00,San Fernando,Sofía Herrera,Jamón San Fernando,30,Carnes,En tránsito,Efectivo,Piura,4
+43,2024-A-013,2024,25/02/2024,2400.70,100.00,InkaFarma,Raúl Medina,Vitaminas,160,Salud,Entregado,Tarjeta,Lima,3
+44,2024-A-014,2024,01/03/2024,390.25,40.00,Tottus,Patricia Flores,Azúcar Tottus,80,Alimentos,Entregado,Transferencia,Trujillo,5
+45,2024-A-015,2024,05/03/2024,5300.00,190.00,Laive,Martín Chávez,Queso mantecoso,280,Lácteos,Entregado,Tarjeta,Lima,7
+46,2024-A-016,2024,10/03/2024,1200.15,65.00,Molitalia,Daniel Paredes,Galletas Field,90,Alimentos,Entregado,Efectivo,Arequipa,4
+47,2024-A-017,2024,12/03/2024,880.40,55.00,Alicorp,Carolina Núñez,Detergente Bolívar,70,Limpieza,Pendiente,Transferencia,Lima,3
+48,2024-A-018,2024,15/03/2024,750.50,50.00,Gloria,Oscar Aguilar,Leche deslactosada,65,Lácteos,Entregado,Tarjeta,Piura,5
+49,2024-A-019,2024,18/03/2024,990.99,60.00,Backus,Esteban Ramos,Cerveza Cusqueña,85,Bebidas,Entregado,Efectivo,Trujillo,6
+50,2024-A-020,2024,20/03/2024,1650.00,80.00,San Fernando,Verónica Silva,Chorizo parrillero,95,Carnes,Entregado,Transferencia,Lima,4
+51,2024-A-021,2024,25/03/2024,2700.30,105.00,InkaFarma,Renato Guzmán,Suplementos deportivos,170,Salud,Entregado,Tarjeta,Arequipa,5
+52,2024-A-022,2024,28/03/2024,480.70,35.00,Tottus,Marisol Cárdenas,Harina Tottus,55,Alimentos,Entregado,Efectivo,Piura,3
+53,2024-A-023,2024,02/04/2024,310.50,25.00,Laive,Julio Espinoza,Yogurt bebible Laive,45,Lácteos,Pendiente,Transferencia,Lima,4
+54,2024-A-024,2024,05/04/2024,1750.25,90.00,Molitalia,Paola Sánchez,Fideos Spaghetti,110,Alimentos,Entregado,Tarjeta,Trujillo,6
+55,2024-A-025,2024,10/04/2024,650.00,40.00,Alicorp,Kevin Morales,Arroz Costeño,95,Alimentos,Entregado,Efectivo,Lima,3
+56,2024-A-026,2024,15/04/2024,2100.90,95.00,Gloria,Milagros León,Queso mantecoso Gloria,140,Lácteos,Entregado,Tarjeta,Arequipa,5
+57,2024-A-027,2024,18/04/2024,160.60,20.00,Backus,Arturo Campos,Cerveza Arequipeña,25,Bebidas,En tránsito,Efectivo,Piura,4
+58,2024-A-028,2024,22/04/2024,870.10,55.00,San Fernando,Lucía Vega,Salchicha San Fernando,65,Carnes,Entregado,Transferencia,Lima,3
+59,2024-A-029,2024,25/04/2024,1500.40,70.00,InkaFarma,Alberto Huamán,Jarabe para tos,85,Salud,Entregado,Tarjeta,Trujillo,5
+60,2024-A-030,2024,30/04/2024,495.85,30.00,Tottus,Elena Quispe,Azúcar rubia,55,Alimentos,Pendiente,Efectivo,Piura,4
+61,2023-A-001,2023,05/01/2023,1180.75,50.00,Alicorp,Carlos Ramírez,Aceite Primor,50,Alimentos,Entregado,Transferencia,Lima,3
+62,2023-A-002,2023,08/01/2023,3300.00,120.00,Gloria,Juan Pérez,Leche evaporada Gloria,200,Alimentos,Entregado,Tarjeta,Arequipa,5
+63,2023-A-003,2023,12/01/2023,905.50,80.00,Backus,Rosa Gutiérrez,Cerveza Cristal,120,Bebidas,Pendiente,Efectivo,Trujillo,7
+64,2023-A-004,2023,15/01/2023,270.99,40.00,San Fernando,Pedro Salazar,Pollo entero,90,Carnes,En tránsito,Transferencia,Chiclayo,4
+65,2023-A-005,2023,20/01/2023,4600.20,150.00,InkaFarma,María Torres,Medicamentos genéricos,300,Salud,Entregado,Tarjeta,Lima,6
+66,2023-A-006,2023,25/01/2023,810.30,60.00,Tottus,Luis Fernández,Arroz Tottus,100,Alimentos,Entregado,Efectivo,Piura,5
+67,2023-A-007,2023,01/02/2023,1420.00,70.00,Laive,José Vargas,Queso fresco Laive,75,Lácteos,Entregado,Transferencia,Lima,3
+68,2023-A-008,2023,05/02/2023,2080.45,90.00,Molitalia,Claudia Rojas,Fideos Molitalia,150,Alimentos,Entregado,Tarjeta,Arequipa,4
+69,2023-A-009,2023,10/02/2023,545.80,50.00,Alicorp,Diego Castillo,Galletas Casino,60,Alimentos,Entregado,Efectivo,Trujillo,3
+70,2023-A-010,2023,12/02/2023,695.10,55.00,Gloria,Andrea López,Yogurt Gloria,80,Lácteos,Pendiente,Tarjeta,Lima,6
+71,2023-A-011,2023,18/02/2023,3650.60,130.00,Backus,Manuel Díaz,Cerveza Pilsen Callao,200,Bebidas,Entregado,Transferencia,Arequipa,5
+72,2023-A-012,2023,20/02/2023,205.99,30.00,San Fernando,Sofía Herrera,Jamón San Fernando,40,Carnes,En tránsito,Efectivo,Piura,4
+73,2023-A-013,2023,25/02/2023,2250.70,100.00,InkaFarma,Raúl Medina,Vitaminas,150,Salud,Entregado,Tarjeta,Lima,3
+74,2023-A-014,2023,01/03/2023,430.25,45.00,Tottus,Patricia Flores,Azúcar Tottus,90,Alimentos,Entregado,Transferencia,Trujillo,5
+75,2023-A-015,2023,05/03/2023,5500.00,200.00,Laive,Martín Chávez,Queso mantecoso,300,Lácteos,Entregado,Tarjeta,Lima,7
+76,2023-A-016,2023,10/03/2023,1090.15,70.00,Molitalia,Daniel Paredes,Galletas Field,100,Alimentos,Entregado,Efectivo,Arequipa,4
+77,2023-A-017,2023,12/03/2023,875.40,60.00,Alicorp,Carolina Núñez,Detergente Bolívar,75,Limpieza,Pendiente,Transferencia,Lima,3
+78,2023-A-018,2023,15/03/2023,730.50,50.00,Gloria,Oscar Aguilar,Leche deslactosada,60,Lácteos,Entregado,Tarjeta,Piura,5
+79,2023-A-019,2023,18/03/2023,960.99,55.00,Backus,Esteban Ramos,Cerveza Cusqueña,80,Bebidas,Entregado,Efectivo,Trujillo,6
+80,2023-A-020,2023,20/03/2023,1520.00,75.00,San Fernando,Verónica Silva,Chorizo parrillero,100,Carnes,Entregado,Transferencia,Lima,4
+81,2023-A-021,2023,25/03/2023,2780.30,110.00,InkaFarma,Renato Guzmán,Suplementos deportivos,180,Salud,Entregado,Tarjeta,Arequipa,5
+82,2023-A-022,2023,28/03/2023,470.70,35.00,Tottus,Marisol Cárdenas,Harina Tottus,60,Alimentos,Entregado,Efectivo,Piura,3
+83,2023-A-023,2023,02/04/2023,305.50,25.00,Laive,Julio Espinoza,Yogurt bebible Laive,40,Lácteos,Pendiente,Transferencia,Lima,4
+84,2023-A-024,2023,05/04/2023,1720.25,95.00,Molitalia,Paola Sánchez,Fideos Spaghetti,120,Alimentos,Entregado,Tarjeta,Trujillo,6
+85,2023-A-025,2023,10/04/2023,620.00,40.00,Alicorp,Kevin Morales,Arroz Costeño,100,Alimentos,Entregado,Efectivo,Lima,3
+86,2023-A-026,2023,15/04/2023,2180.90,100.00,Gloria,Milagros León,Queso mantecoso Gloria,150,Lácteos,Entregado,Tarjeta,Arequipa,5
+87,2023-A-027,2023,18/04/2023,155.60,20.00,Backus,Arturo Campos,Cerveza Arequipeña,30,Bebidas,En tránsito,Efectivo,Piura,4
+88,2023-A-028,2023,22/04/2023,840.10,55.00,San Fernando,Lucía Vega,Salchicha San Fernando,70,Carnes,Entregado,Transferencia,Lima,3
+89,2023-A-029,2023,25/04/2023,1580.40,75.00,InkaFarma,Alberto Huamán,Jarabe para tos,90,Salud,Entregado,Tarjeta,Trujillo,5
+90,2023-A-030,2023,30/04/2023,500.85,35.00,Tottus,Elena Quispe,Azúcar rubia,60,Alimentos,Pendiente,Efectivo,Piura,4
+91,2022-A-001,2022,06/01/2022,1150.75,55.00,Alicorp,Carlos Ramírez,Aceite Primor,50,Alimentos,Entregado,Transferencia,Lima,3
+92,2022-A-002,2022,10/01/2022,3250.00,115.00,Gloria,Juan Pérez,Leche evaporada Gloria,190,Alimentos,Entregado,Tarjeta,Arequipa,5
+93,2022-A-003,2022,15/01/2022,890.50,70.00,Backus,Rosa Gutiérrez,Cerveza Cristal,100,Bebidas,Pendiente,Efectivo,Trujillo,6
+94,2022-A-004,2022,18/01/2022,260.99,35.00,San Fernando,Pedro Salazar,Pollo entero,60,Carnes,En tránsito,Transferencia,Chiclayo,4
+95,2022-A-005,2022,22/01/2022,4700.20,160.00,InkaFarma,María Torres,Medicamentos genéricos,280,Salud,Entregado,Tarjeta,Lima,7
+96,2022-A-006,2022,25/01/2022,799.30,55.00,Tottus,Luis Fernández,Arroz Tottus,85,Alimentos,Entregado,Efectivo,Piura,5
+97,2022-A-007,2022,01/02/2022,1400.00,70.00,Laive,José Vargas,Queso fresco Laive,70,Lácteos,Entregado,Transferencia,Lima,3
+98,2022-A-008,2022,05/02/2022,2050.45,95.00,Molitalia,Claudia Rojas,Fideos Molitalia,140,Alimentos,Entregado,Tarjeta,Arequipa,4
+99,2022-A-009,2022,10/02/2022,530.80,45.00,Alicorp,Diego Castillo,Galletas Casino,50,Alimentos,Entregado,Efectivo,Trujillo,3
+100,2022-A-010,2022,12/02/2022,685.10,50.00,Gloria,Andrea López,Yogurt Gloria,70,Lácteos,Pendiente,Tarjeta,Lima,6
+101,2022-A-011,2022,18/02/2022,3600.60,125.00,Backus,Manuel Díaz,Cerveza Pilsen Callao,180,Bebidas,Entregado,Transferencia,Arequipa,5
+102,2022-A-012,2022,20/02/2022,200.99,25.00,San Fernando,Sofía Herrera,Jamón San Fernando,30,Carnes,En tránsito,Efectivo,Piura,4
+103,2022-A-013,2022,25/02/2022,2200.70,95.00,InkaFarma,Raúl Medina,Vitaminas,150,Salud,Entregado,Tarjeta,Lima,3
+104,2022-A-014,2022,01/03/2022,420.25,40.00,Tottus,Patricia Flores,Azúcar Tottus,80,Alimentos,Entregado,Transferencia,Trujillo,5
+105,2022-A-015,2022,05/03/2022,5400.00,190.00,Laive,Martín Chávez,Queso mantecoso,280,Lácteos,Entregado,Tarjeta,Lima,7
+106,2022-A-016,2022,10/03/2022,1080.15,65.00,Molitalia,Daniel Paredes,Galletas Field,90,Alimentos,Entregado,Efectivo,Arequipa,4
+107,2022-A-017,2022,12/03/2022,870.40,55.00,Alicorp,Carolina Núñez,Detergente Bolívar,70,Limpieza,Pendiente,Transferencia,Lima,3
+108,2022-A-018,2022,15/03/2022,720.50,50.00,Gloria,Oscar Aguilar,Leche deslactosada,65,Lácteos,Entregado,Tarjeta,Piura,5
+109,2022-A-019,2022,18/03/2022,940.99,55.00,Backus,Esteban Ramos,Cerveza Cusqueña,80,Bebidas,Entregado,Efectivo,Trujillo,6
+110,2022-A-020,2022,20/03/2022,1500.00,75.00,San Fernando,Verónica Silva,Chorizo parrillero,95,Carnes,Entregado,Transferencia,Lima,4
+111,2022-A-021,2022,25/03/2022,2750.30,105.00,InkaFarma,Renato Guzmán,Suplementos deportivos,170,Salud,Entregado,Tarjeta,Arequipa,5
+112,2022-A-022,2022,28/03/2022,460.70,35.00,Tottus,Marisol Cárdenas,Harina Tottus,55,Alimentos,Entregado,Efectivo,Piura,3
+113,2022-A-023,2022,02/04/2022,295.50,25.00,Laive,Julio Espinoza,Yogurt bebible Laive,40,Lácteos,Pendiente,Transferencia,Lima,4
+114,2022-A-024,2022,05/04/2022,1700.25,90.00,Molitalia,Paola Sánchez,Fideos Spaghetti,110,Alimentos,Entregado,Tarjeta,Trujillo,6
+115,2022-A-025,2022,10/04/2022,610.00,40.00,Alicorp,Kevin Morales,Arroz Costeño,95,Alimentos,Entregado,Efectivo,Lima,3
+116,2022-A-026,2022,15/04/2022,2150.90,95.00,Gloria,Milagros León,Queso mantecoso Gloria,140,Lácteos,Entregado,Tarjeta,Arequipa,5
+117,2022-A-027,2022,18/04/2022,150.60,20.00,Backus,Arturo Campos,Cerveza Arequipeña,25,Bebidas,En tránsito,Efectivo,Piura,4
+118,2022-A-028,2022,22/04/2022,830.10,55.00,San Fernando,Lucía Vega,Salchicha San Fernando,65,Carnes,Entregado,Transferencia,Lima,3
+119,2022-A-029,2022,25/04/2022,1550.40,70.00,InkaFarma,Alberto Huamán,Jarabe para tos,85,Salud,Entregado,Tarjeta,Trujillo,5
+120,2022-A-030,2022,30/04/2022,505.85,30.00,Tottus,Elena Quispe,Azúcar rubia,55,Alimentos,Pendiente,Efectivo,Piura,4
+121,2021-A-001,2021,06/01/2021,1120.75,50.00,Alicorp,Carlos Ramírez,Aceite Primor,48,Alimentos,Entregado,Transferencia,Lima,3
+122,2021-A-002,2021,10/01/2021,3150.00,110.00,Gloria,Juan Pérez,Leche evaporada Gloria,185,Alimentos,Entregado,Tarjeta,Arequipa,5
+123,2021-A-003,2021,15/01/2021,870.50,70.00,Backus,Rosa Gutiérrez,Cerveza Cristal,95,Bebidas,Pendiente,Efectivo,Trujillo,6
+124,2021-A-004,2021,18/01/2021,240.99,35.00,San Fernando,Pedro Salazar,Pollo entero,55,Carnes,En tránsito,Transferencia,Chiclayo,4
+125,2021-A-005,2021,22/01/2021,4550.20,150.00,InkaFarma,María Torres,Medicamentos genéricos,270,Salud,Entregado,Tarjeta,Lima,7
+126,2021-A-006,2021,25/01/2021,780.30,55.00,Tottus,Luis Fernández,Arroz Tottus,80,Alimentos,Entregado,Efectivo,Piura,5
+127,2021-A-007,2021,01/02/2021,1380.00,70.00,Laive,José Vargas,Queso fresco Laive,68,Lácteos,Entregado,Transferencia,Lima,3
+128,2021-A-008,2021,05/02/2021,1980.45,90.00,Molitalia,Claudia Rojas,Fideos Molitalia,135,Alimentos,Entregado,Tarjeta,Arequipa,4
+129,2021-A-009,2021,10/02/2021,520.80,45.00,Alicorp,Diego Castillo,Galletas Casino,48,Alimentos,Entregado,Efectivo,Trujillo,3
+130,2021-A-010,2021,12/02/2021,670.10,50.00,Gloria,Andrea López,Yogurt Gloria,68,Lácteos,Pendiente,Tarjeta,Lima,6
+131,2021-A-011,2021,18/02/2021,3500.60,120.00,Backus,Manuel Díaz,Cerveza Pilsen Callao,170,Bebidas,Entregado,Transferencia,Arequipa,5
+132,2021-A-012,2021,20/02/2021,195.99,25.00,San Fernando,Sofía Herrera,Jamón San Fernando,28,Carnes,En tránsito,Efectivo,Piura,4
+133,2021-A-013,2021,25/02/2021,2150.70,95.00,InkaFarma,Raúl Medina,Vitaminas,145,Salud,Entregado,Tarjeta,Lima,3
+134,2021-A-014,2021,01/03/2021,400.25,40.00,Tottus,Patricia Flores,Azúcar Tottus,78,Alimentos,Entregado,Transferencia,Trujillo,5
+135,2021-A-015,2021,05/03/2021,5200.00,185.00,Laive,Martín Chávez,Queso mantecoso,270,Lácteos,Entregado,Tarjeta,Lima,7
+136,2021-A-016,2021,10/03/2021,1050.15,65.00,Molitalia,Daniel Paredes,Galletas Field,88,Alimentos,Entregado,Efectivo,Arequipa,4
+137,2021-A-017,2021,12/03/2021,860.40,55.00,Alicorp,Carolina Núñez,Detergente Bolívar,68,Limpieza,Pendiente,Transferencia,Lima,3
+138,2021-A-018,2021,15/03/2021,710.50,50.00,Gloria,Oscar Aguilar,Leche deslactosada,62,Lácteos,Entregado,Tarjeta,Piura,5
+139,2021-A-019,2021,18/03/2021,930.99,55.00,Backus,Esteban Ramos,Cerveza Cusqueña,78,Bebidas,Entregado,Efectivo,Trujillo,6
+140,2021-A-020,2021,20/03/2021,1480.00,75.00,San Fernando,Verónica Silva,Chorizo parrillero,92,Carnes,Entregado,Transferencia,Lima,4
+141,2021-A-021,2021,25/03/2021,2680.30,105.00,InkaFarma,Renato Guzmán,Suplementos deportivos,165,Salud,Entregado,Tarjeta,Arequipa,5
+142,2021-A-022,2021,28/03/2021,440.70,35.00,Tottus,Marisol Cárdenas,Harina Tottus,52,Alimentos,Entregado,Efectivo,Piura,3
+143,2021-A-023,2021,02/04/2021,285.50,25.00,Laive,Julio Espinoza,Yogurt bebible Laive,38,Lácteos,Pendiente,Transferencia,Lima,4
+144,2021-A-024,2021,05/04/2021,1650.25,90.00,Molitalia,Paola Sánchez,Fideos Spaghetti,105,Alimentos,Entregado,Tarjeta,Trujillo,6
+145,2021-A-025,2021,10/04/2021,590.00,40.00,Alicorp,Kevin Morales,Arroz Costeño,90,Alimentos,Entregado,Efectivo,Lima,3
+146,2021-A-026,2021,15/04/2021,2050.90,95.00,Gloria,Milagros León,Queso mantecoso Gloria,135,Lácteos,Entregado,Tarjeta,Arequipa,5
+147,2021-A-027,2021,18/04/2021,140.60,20.00,Backus,Arturo Campos,Cerveza Arequipeña,25,Bebidas,En tránsito,Efectivo,Piura,4
+148,2021-A-028,2021,22/04/2021,810.10,55.00,San Fernando,Lucía Vega,Salchicha San Fernando,62,Carnes,Entregado,Transferencia,Lima,3
+149,2021-A-029,2021,25/04/2021,1500.40,70.00,InkaFarma,Alberto Huamán,Jarabe para tos,82,Salud,Entregado,Tarjeta,Trujillo,5
+150,2021-A-030,2021,30/04/2021,490.85,30.00,Tottus,Elena Quispe,Azúcar rubia,52,Alimentos,Pendiente,Efectivo,Piura,4
+151,2020-A-001,2020,06/01/2020,1100.75,50.00,Alicorp,Carlos Ramírez,Aceite Primor,48,Alimentos,Entregado,Transferencia,Lima,3
+152,2020-A-002,2020,10/01/2020,3100.00,110.00,Gloria,Juan Pérez,Leche evaporada Gloria,180,Alimentos,Entregado,Tarjeta,Arequipa,5
+153,2020-A-003,2020,15/01/2020,860.50,70.00,Backus,Rosa Gutiérrez,Cerveza Cristal,95,Bebidas,Pendiente,Efectivo,Trujillo,6
+154,2020-A-004,2020,18/01/2020,230.99,35.00,San Fernando,Pedro Salazar,Pollo entero,55,Carnes,En tránsito,Transferencia,Chiclayo,4
+155,2020-A-005,2020,22/01/2020,4400.20,150.00,InkaFarma,María Torres,Medicamentos genéricos,260,Salud,Entregado,Tarjeta,Lima,7
+156,2020-A-006,2020,25/01/2020,770.30,55.00,Tottus,Luis Fernández,Arroz Tottus,80,Alimentos,Entregado,Efectivo,Piura,5
+157,2020-A-007,2020,01/02/2020,1350.00,70.00,Laive,José Vargas,Queso fresco Laive,65,Lácteos,Entregado,Transferencia,Lima,3
+158,2020-A-008,2020,05/02/2020,1950.45,90.00,Molitalia,Claudia Rojas,Fideos Molitalia,130,Alimentos,Entregado,Tarjeta,Arequipa,4
+159,2020-A-009,2020,10/02/2020,510.80,45.00,Alicorp,Diego Castillo,Galletas Casino,48,Alimentos,Entregado,Efectivo,Trujillo,3
+160,2020-A-010,2020,12/02/2020,660.10,50.00,Gloria,Andrea López,Yogurt Gloria,65,Lácteos,Pendiente,Tarjeta,Lima,6
+161,2020-A-011,2020,18/02/2020,3400.60,120.00,Backus,Manuel Díaz,Cerveza Pilsen Callao,165,Bebidas,Entregado,Transferencia,Arequipa,5
+162,2020-A-012,2020,20/02/2020,185.99,25.00,San Fernando,Sofía Herrera,Jamón San Fernando,28,Carnes,En tránsito,Efectivo,Piura,4
+163,2020-A-013,2020,25/02/2020,2100.70,95.00,InkaFarma,Raúl Medina,Vitaminas,140,Salud,Entregado,Tarjeta,Lima,3
+164,2020-A-014,2020,01/03/2020,390.25,40.00,Tottus,Patricia Flores,Azúcar Tottus,75,Alimentos,Entregado,Transferencia,Trujillo,5
+165,2020-A-015,2020,05/03/2020,5100.00,185.00,Laive,Martín Chávez,Queso mantecoso,260,Lácteos,Entregado,Tarjeta,Lima,7
+166,2020-A-016,2020,10/03/2020,1020.15,65.00,Molitalia,Daniel Paredes,Galletas Field,85,Alimentos,Entregado,Efectivo,Arequipa,4
+167,2020-A-017,2020,12/03/2020,850.40,55.00,Alicorp,Carolina Núñez,Detergente Bolívar,68,Limpieza,Pendiente,Transferencia,Lima,3
+168,2020-A-018,2020,15/03/2020,700.50,50.00,Gloria,Oscar Aguilar,Leche deslactosada,60,Lácteos,Entregado,Tarjeta,Piura,5
+169,2020-A-019,2020,18/03/2020,910.99,55.00,Backus,Esteban Ramos,Cerveza Cusqueña,75,Bebidas,Entregado,Efectivo,Trujillo,6
+170,2020-A-020,2020,20/03/2020,1450.00,75.00,San Fernando,Verónica Silva,Chorizo parrillero,90,Carnes,Entregado,Transferencia,Lima,4
+171,2020-A-021,2020,25/03/2020,2600.30,105.00,InkaFarma,Renato Guzmán,Suplementos deportivos,160,Salud,Entregado,Tarjeta,Arequipa,5
+172,2020-A-022,2020,28/03/2020,430.70,35.00,Tottus,Marisol Cárdenas,Harina Tottus,50,Alimentos,Entregado,Efectivo,Piura,3
+173,2020-A-023,2020,02/04/2020,280.50,25.00,Laive,Julio Espinoza,Yogurt bebible Laive,38,Lácteos,Pendiente,Transferencia,Lima,4
+174,2020-A-024,2020,05/04/2020,1600.25,90.00,Molitalia,Paola Sánchez,Fideos Spaghetti,100,Alimentos,Entregado,Tarjeta,Trujillo,6
+175,2020-A-025,2020,10/04/2020,580.00,40.00,Alicorp,Kevin Morales,Arroz Costeño,90,Alimentos,Entregado,Efectivo,Lima,3
+176,2020-A-026,2020,15/04/2020,2000.90,95.00,Gloria,Milagros León,Queso mantecoso Gloria,130,Lácteos,Entregado,Tarjeta,Arequipa,5
+177,2020-A-027,2020,18/04/2020,135.60,20.00,Backus,Arturo Campos,Cerveza Arequipeña,25,Bebidas,En tránsito,Efectivo,Piura,4
+178,2020-A-028,2020,22/04/2020,790.10,55.00,San Fernando,Lucía Vega,Salchicha San Fernando,60,Carnes,Entregado,Transferencia,Lima,3
+179,2020-A-029,2020,25/04/2020,1450.40,70.00,InkaFarma,Alberto Huamán,Jarabe para tos,80,Salud,Entregado,Tarjeta,Trujillo,5
+180,2020-A-030,2020,30/04/2020,480.85,30.00,Tottus,Elena Quispe,Azúcar rubia,50,Alimentos,Pendiente,Efectivo,Piura,4
