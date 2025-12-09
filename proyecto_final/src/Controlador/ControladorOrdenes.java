@@ -143,7 +143,7 @@ public class ControladorOrdenes {
         System.out.printf("Total de productos: %d unidades%n", totalProductos);
     }
     
-   
+
     public void generarReportePorCategoria(String nombreArchivo) throws ExcepcionProcesamientoDatos {
         RegistroMaestro[] registros = cargarDatos(nombreArchivo); 
         System.out.println("\n 2. Reporte total de productos comprados por categoria");
@@ -494,4 +494,3 @@ public class ControladorOrdenes {
         }
     }
 }
-       
